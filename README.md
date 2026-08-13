@@ -1,9 +1,9 @@
-##﻿Project Overview
+## ﻿Project Overview
 
 This project predicts football match outcomes using historical international football match data.
 The model uses features such as home team, away team, tournament, country, neutral venue, and year to predict the expected goal difference between two teams.
 
-##How to Run the Project
+## How to Run the Project
 
 Clone or download this repository.
 Open the project in Anaconda Jupyter Notebook.
@@ -12,7 +12,7 @@ Open football_prediction.ipynb.
 Run the notebook cells from top to bottom.
 View the prediction results and visualization.
 
-##Sample Output
+## Sample Output
 
 The model predicts the expected goal difference for sample matches and converts it into estimated chances of:
 
